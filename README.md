@@ -1,1 +1,4 @@
 proje
+=========
+
+detaylar sonra
